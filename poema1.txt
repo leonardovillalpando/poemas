@@ -1,1 +1,6 @@
-kjaksldjsdkjfdlfjdsfkljsdfñksdfjdsf
+Las rosas son rojas como mis calzones pero más rojo me pongo cuando te veo 
+
+stageini
+	realizamos una modificacion en nuestra carpeta 
+	tenmos un estatus de nuestra carpetta
+	con el "git add" 
